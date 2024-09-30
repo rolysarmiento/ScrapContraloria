@@ -1,0 +1,4 @@
+
+	- Captura de la resolucion+
+	- Captura de resultados no encontrados 
+
